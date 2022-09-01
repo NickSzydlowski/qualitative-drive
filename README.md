@@ -7,4 +7,5 @@ The script is adapted to the following scenario: a group of researchers are perf
 - Add the script Code.GS to a Google Drive spreadsheet using the spreadsheet's script editor
 - Add your Shared Drive ID on line 8 and your folder ID on Line 10
 - Run the script from the spreadsheet's script editor 
-  - The script will populate the spreadsheet with information about the comments for all documents in the specified folder
+
+The script will populate the spreadsheet with information about the comments for all documents in the specified folder
